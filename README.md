@@ -1,7 +1,7 @@
 # Evil-Music-Player
 
 ##Installing Evil Music Player
-  Evil Music Player is for iOS only, and can be installed by creating a project in xcode and adding all of the files in this rep.
+  Evil Music Player is for iOS only.
   
 ##Objects
   There are two objects worth noting: the EVLMusicManager and EVLMusic.  The EVLMusic class can be used on it's own, but is not in this project.
