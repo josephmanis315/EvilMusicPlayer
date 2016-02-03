@@ -9,12 +9,40 @@
 /* Begin PBXBuildFile section */
 		7C915D661C61CE75003AD756 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C915D651C61CE75003AD756 /* main.m */; };
 		7C915D691C61CE75003AD756 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C915D681C61CE75003AD756 /* AppDelegate.m */; };
-		7C915D6C1C61CE75003AD756 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C915D6B1C61CE75003AD756 /* ViewController.m */; };
 		7C915D6F1C61CE75003AD756 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C915D6D1C61CE75003AD756 /* Main.storyboard */; };
 		7C915D711C61CE75003AD756 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C915D701C61CE75003AD756 /* Assets.xcassets */; };
 		7C915D741C61CE75003AD756 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C915D721C61CE75003AD756 /* LaunchScreen.storyboard */; };
 		7C915D7F1C61CE75003AD756 /* EvilMusicPlayerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C915D7E1C61CE75003AD756 /* EvilMusicPlayerTests.m */; };
 		7C915D8A1C61CE75003AD756 /* EvilMusicPlayerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C915D891C61CE75003AD756 /* EvilMusicPlayerUITests.m */; };
+		7C915DB51C61CF7E003AD756 /* achievement.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7C915D9B1C61CF7E003AD756 /* achievement.wav */; };
+		7C915DB61C61CF7E003AD756 /* ahh-nicely.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915D9C1C61CF7E003AD756 /* ahh-nicely.mp3 */; };
+		7C915DB71C61CF7E003AD756 /* boo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915D9D1C61CF7E003AD756 /* boo.mp3 */; };
+		7C915DB81C61CF7E003AD756 /* bubble.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7C915D9E1C61CF7E003AD756 /* bubble.wav */; };
+		7C915DB91C61CF7E003AD756 /* bubble1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7C915D9F1C61CF7E003AD756 /* bubble1.wav */; };
+		7C915DBA1C61CF7E003AD756 /* cake-full.aif in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DA01C61CF7E003AD756 /* cake-full.aif */; };
+		7C915DBB1C61CF7E003AD756 /* chat_incoming.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DA11C61CF7E003AD756 /* chat_incoming.mp3 */; };
+		7C915DBC1C61CF7E003AD756 /* click0.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DA21C61CF7E003AD756 /* click0.mp3 */; };
+		7C915DBD1C61CF7E003AD756 /* click1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DA31C61CF7E003AD756 /* click1.mp3 */; };
+		7C915DBE1C61CF7E003AD756 /* doom.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DA41C61CF7E003AD756 /* doom.mp3 */; };
+		7C915DBF1C61CF7E003AD756 /* drumroll.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DA51C61CF7E003AD756 /* drumroll.mp3 */; };
+		7C915DC01C61CF7E003AD756 /* elevator-badspeakers.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DA61C61CF7E003AD756 /* elevator-badspeakers.mp3 */; };
+		7C915DC11C61CF7E003AD756 /* gavel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DA71C61CF7E003AD756 /* gavel.mp3 */; };
+		7C915DC21C61CF7E003AD756 /* ho.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DA81C61CF7E003AD756 /* ho.mp3 */; };
+		7C915DC31C61CF7E003AD756 /* laser-prep-reverse.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DA91C61CF7E003AD756 /* laser-prep-reverse.mp3 */; };
+		7C915DC41C61CF7E003AD756 /* laser-prep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DAA1C61CF7E003AD756 /* laser-prep.mp3 */; };
+		7C915DC51C61CF7E003AD756 /* ninja-sword.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DAB1C61CF7E003AD756 /* ninja-sword.mp3 */; };
+		7C915DC61C61CF7E003AD756 /* ninja-whack.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DAC1C61CF7E003AD756 /* ninja-whack.mp3 */; };
+		7C915DC71C61CF7E003AD756 /* ninja-whoosh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DAD1C61CF7E003AD756 /* ninja-whoosh.mp3 */; };
+		7C915DC81C61CF7E003AD756 /* notice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DAE1C61CF7E003AD756 /* notice.mp3 */; };
+		7C915DC91C61CF7E003AD756 /* sad-trombone.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DAF1C61CF7E003AD756 /* sad-trombone.aiff */; };
+		7C915DCA1C61CF7E003AD756 /* select-classic.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DB01C61CF7E003AD756 /* select-classic.wav */; };
+		7C915DCB1C61CF7E003AD756 /* small-applause.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DB11C61CF7E003AD756 /* small-applause.mp3 */; };
+		7C915DCC1C61CF7E003AD756 /* sonar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DB21C61CF7E003AD756 /* sonar.mp3 */; };
+		7C915DCD1C61CF7E003AD756 /* start-echo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DB31C61CF7E003AD756 /* start-echo.mp3 */; };
+		7C915DCE1C61CF7E003AD756 /* whoosh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C915DB41C61CF7E003AD756 /* whoosh.mp3 */; };
+		7C915DD11C61CF87003AD756 /* EVLNowPlayingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C915DD01C61CF87003AD756 /* EVLNowPlayingViewController.m */; };
+		7C915DD41C61CF8E003AD756 /* EVLMusic.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C915DD31C61CF8E003AD756 /* EVLMusic.m */; };
+		7C915DD71C61CF94003AD756 /* EVLMusicManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C915DD61C61CF94003AD756 /* EVLMusicManager.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,8 +67,6 @@
 		7C915D651C61CE75003AD756 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		7C915D671C61CE75003AD756 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		7C915D681C61CE75003AD756 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		7C915D6A1C61CE75003AD756 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		7C915D6B1C61CE75003AD756 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		7C915D6E1C61CE75003AD756 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7C915D701C61CE75003AD756 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C915D731C61CE75003AD756 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -51,6 +77,38 @@
 		7C915D851C61CE75003AD756 /* EvilMusicPlayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EvilMusicPlayerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C915D891C61CE75003AD756 /* EvilMusicPlayerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EvilMusicPlayerUITests.m; sourceTree = "<group>"; };
 		7C915D8B1C61CE75003AD756 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7C915D9B1C61CF7E003AD756 /* achievement.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = achievement.wav; path = Songs/achievement.wav; sourceTree = "<group>"; };
+		7C915D9C1C61CF7E003AD756 /* ahh-nicely.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ahh-nicely.mp3"; path = "Songs/ahh-nicely.mp3"; sourceTree = "<group>"; };
+		7C915D9D1C61CF7E003AD756 /* boo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = boo.mp3; path = Songs/boo.mp3; sourceTree = "<group>"; };
+		7C915D9E1C61CF7E003AD756 /* bubble.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = bubble.wav; path = Songs/bubble.wav; sourceTree = "<group>"; };
+		7C915D9F1C61CF7E003AD756 /* bubble1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = bubble1.wav; path = Songs/bubble1.wav; sourceTree = "<group>"; };
+		7C915DA01C61CF7E003AD756 /* cake-full.aif */ = {isa = PBXFileReference; lastKnownFileType = file; name = "cake-full.aif"; path = "Songs/cake-full.aif"; sourceTree = "<group>"; };
+		7C915DA11C61CF7E003AD756 /* chat_incoming.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = chat_incoming.mp3; path = Songs/chat_incoming.mp3; sourceTree = "<group>"; };
+		7C915DA21C61CF7E003AD756 /* click0.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = click0.mp3; path = Songs/click0.mp3; sourceTree = "<group>"; };
+		7C915DA31C61CF7E003AD756 /* click1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = click1.mp3; path = Songs/click1.mp3; sourceTree = "<group>"; };
+		7C915DA41C61CF7E003AD756 /* doom.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = doom.mp3; path = Songs/doom.mp3; sourceTree = "<group>"; };
+		7C915DA51C61CF7E003AD756 /* drumroll.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = drumroll.mp3; path = Songs/drumroll.mp3; sourceTree = "<group>"; };
+		7C915DA61C61CF7E003AD756 /* elevator-badspeakers.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "elevator-badspeakers.mp3"; path = "Songs/elevator-badspeakers.mp3"; sourceTree = "<group>"; };
+		7C915DA71C61CF7E003AD756 /* gavel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = gavel.mp3; path = Songs/gavel.mp3; sourceTree = "<group>"; };
+		7C915DA81C61CF7E003AD756 /* ho.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = ho.mp3; path = Songs/ho.mp3; sourceTree = "<group>"; };
+		7C915DA91C61CF7E003AD756 /* laser-prep-reverse.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "laser-prep-reverse.mp3"; path = "Songs/laser-prep-reverse.mp3"; sourceTree = "<group>"; };
+		7C915DAA1C61CF7E003AD756 /* laser-prep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "laser-prep.mp3"; path = "Songs/laser-prep.mp3"; sourceTree = "<group>"; };
+		7C915DAB1C61CF7E003AD756 /* ninja-sword.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ninja-sword.mp3"; path = "Songs/ninja-sword.mp3"; sourceTree = "<group>"; };
+		7C915DAC1C61CF7E003AD756 /* ninja-whack.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ninja-whack.mp3"; path = "Songs/ninja-whack.mp3"; sourceTree = "<group>"; };
+		7C915DAD1C61CF7E003AD756 /* ninja-whoosh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ninja-whoosh.mp3"; path = "Songs/ninja-whoosh.mp3"; sourceTree = "<group>"; };
+		7C915DAE1C61CF7E003AD756 /* notice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = notice.mp3; path = Songs/notice.mp3; sourceTree = "<group>"; };
+		7C915DAF1C61CF7E003AD756 /* sad-trombone.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; name = "sad-trombone.aiff"; path = "Songs/sad-trombone.aiff"; sourceTree = "<group>"; };
+		7C915DB01C61CF7E003AD756 /* select-classic.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "select-classic.wav"; path = "Songs/select-classic.wav"; sourceTree = "<group>"; };
+		7C915DB11C61CF7E003AD756 /* small-applause.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "small-applause.mp3"; path = "Songs/small-applause.mp3"; sourceTree = "<group>"; };
+		7C915DB21C61CF7E003AD756 /* sonar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = sonar.mp3; path = Songs/sonar.mp3; sourceTree = "<group>"; };
+		7C915DB31C61CF7E003AD756 /* start-echo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "start-echo.mp3"; path = "Songs/start-echo.mp3"; sourceTree = "<group>"; };
+		7C915DB41C61CF7E003AD756 /* whoosh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = whoosh.mp3; path = Songs/whoosh.mp3; sourceTree = "<group>"; };
+		7C915DCF1C61CF87003AD756 /* EVLNowPlayingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVLNowPlayingViewController.h; sourceTree = "<group>"; };
+		7C915DD01C61CF87003AD756 /* EVLNowPlayingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVLNowPlayingViewController.m; sourceTree = "<group>"; };
+		7C915DD21C61CF8E003AD756 /* EVLMusic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVLMusic.h; sourceTree = "<group>"; };
+		7C915DD31C61CF8E003AD756 /* EVLMusic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVLMusic.m; sourceTree = "<group>"; };
+		7C915DD51C61CF94003AD756 /* EVLMusicManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVLMusicManager.h; sourceTree = "<group>"; };
+		7C915DD61C61CF94003AD756 /* EVLMusicManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVLMusicManager.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,10 +159,12 @@
 		7C915D631C61CE75003AD756 /* EvilMusicPlayer */ = {
 			isa = PBXGroup;
 			children = (
+				7C915D9A1C61CF6F003AD756 /* UI */,
+				7C915D991C61CF61003AD756 /* Resources */,
+				7C915D981C61CF56003AD756 /* Data */,
+				7C915D971C61CF4E003AD756 /* Managers */,
 				7C915D671C61CE75003AD756 /* AppDelegate.h */,
 				7C915D681C61CE75003AD756 /* AppDelegate.m */,
-				7C915D6A1C61CE75003AD756 /* ViewController.h */,
-				7C915D6B1C61CE75003AD756 /* ViewController.m */,
 				7C915D6D1C61CE75003AD756 /* Main.storyboard */,
 				7C915D701C61CE75003AD756 /* Assets.xcassets */,
 				7C915D721C61CE75003AD756 /* LaunchScreen.storyboard */,
@@ -138,6 +198,66 @@
 				7C915D8B1C61CE75003AD756 /* Info.plist */,
 			);
 			path = EvilMusicPlayerUITests;
+			sourceTree = "<group>";
+		};
+		7C915D971C61CF4E003AD756 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				7C915DD51C61CF94003AD756 /* EVLMusicManager.h */,
+				7C915DD61C61CF94003AD756 /* EVLMusicManager.m */,
+			);
+			name = Managers;
+			sourceTree = "<group>";
+		};
+		7C915D981C61CF56003AD756 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				7C915DD21C61CF8E003AD756 /* EVLMusic.h */,
+				7C915DD31C61CF8E003AD756 /* EVLMusic.m */,
+			);
+			name = Data;
+			sourceTree = "<group>";
+		};
+		7C915D991C61CF61003AD756 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				7C915D9B1C61CF7E003AD756 /* achievement.wav */,
+				7C915D9C1C61CF7E003AD756 /* ahh-nicely.mp3 */,
+				7C915D9D1C61CF7E003AD756 /* boo.mp3 */,
+				7C915D9E1C61CF7E003AD756 /* bubble.wav */,
+				7C915D9F1C61CF7E003AD756 /* bubble1.wav */,
+				7C915DA01C61CF7E003AD756 /* cake-full.aif */,
+				7C915DA11C61CF7E003AD756 /* chat_incoming.mp3 */,
+				7C915DA21C61CF7E003AD756 /* click0.mp3 */,
+				7C915DA31C61CF7E003AD756 /* click1.mp3 */,
+				7C915DA41C61CF7E003AD756 /* doom.mp3 */,
+				7C915DA51C61CF7E003AD756 /* drumroll.mp3 */,
+				7C915DA61C61CF7E003AD756 /* elevator-badspeakers.mp3 */,
+				7C915DA71C61CF7E003AD756 /* gavel.mp3 */,
+				7C915DA81C61CF7E003AD756 /* ho.mp3 */,
+				7C915DA91C61CF7E003AD756 /* laser-prep-reverse.mp3 */,
+				7C915DAA1C61CF7E003AD756 /* laser-prep.mp3 */,
+				7C915DAB1C61CF7E003AD756 /* ninja-sword.mp3 */,
+				7C915DAC1C61CF7E003AD756 /* ninja-whack.mp3 */,
+				7C915DAD1C61CF7E003AD756 /* ninja-whoosh.mp3 */,
+				7C915DAE1C61CF7E003AD756 /* notice.mp3 */,
+				7C915DAF1C61CF7E003AD756 /* sad-trombone.aiff */,
+				7C915DB01C61CF7E003AD756 /* select-classic.wav */,
+				7C915DB11C61CF7E003AD756 /* small-applause.mp3 */,
+				7C915DB21C61CF7E003AD756 /* sonar.mp3 */,
+				7C915DB31C61CF7E003AD756 /* start-echo.mp3 */,
+				7C915DB41C61CF7E003AD756 /* whoosh.mp3 */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		7C915D9A1C61CF6F003AD756 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				7C915DCF1C61CF87003AD756 /* EVLNowPlayingViewController.h */,
+				7C915DD01C61CF87003AD756 /* EVLNowPlayingViewController.m */,
+			);
+			name = UI;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,8 +363,34 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C915DC61C61CF7E003AD756 /* ninja-whack.mp3 in Resources */,
+				7C915DC41C61CF7E003AD756 /* laser-prep.mp3 in Resources */,
+				7C915DB51C61CF7E003AD756 /* achievement.wav in Resources */,
+				7C915DCA1C61CF7E003AD756 /* select-classic.wav in Resources */,
 				7C915D741C61CE75003AD756 /* LaunchScreen.storyboard in Resources */,
+				7C915DCE1C61CF7E003AD756 /* whoosh.mp3 in Resources */,
 				7C915D711C61CE75003AD756 /* Assets.xcassets in Resources */,
+				7C915DBD1C61CF7E003AD756 /* click1.mp3 in Resources */,
+				7C915DC81C61CF7E003AD756 /* notice.mp3 in Resources */,
+				7C915DBA1C61CF7E003AD756 /* cake-full.aif in Resources */,
+				7C915DCB1C61CF7E003AD756 /* small-applause.mp3 in Resources */,
+				7C915DB71C61CF7E003AD756 /* boo.mp3 in Resources */,
+				7C915DC21C61CF7E003AD756 /* ho.mp3 in Resources */,
+				7C915DC11C61CF7E003AD756 /* gavel.mp3 in Resources */,
+				7C915DC51C61CF7E003AD756 /* ninja-sword.mp3 in Resources */,
+				7C915DB91C61CF7E003AD756 /* bubble1.wav in Resources */,
+				7C915DB81C61CF7E003AD756 /* bubble.wav in Resources */,
+				7C915DB61C61CF7E003AD756 /* ahh-nicely.mp3 in Resources */,
+				7C915DBE1C61CF7E003AD756 /* doom.mp3 in Resources */,
+				7C915DCD1C61CF7E003AD756 /* start-echo.mp3 in Resources */,
+				7C915DC91C61CF7E003AD756 /* sad-trombone.aiff in Resources */,
+				7C915DCC1C61CF7E003AD756 /* sonar.mp3 in Resources */,
+				7C915DC31C61CF7E003AD756 /* laser-prep-reverse.mp3 in Resources */,
+				7C915DBB1C61CF7E003AD756 /* chat_incoming.mp3 in Resources */,
+				7C915DC71C61CF7E003AD756 /* ninja-whoosh.mp3 in Resources */,
+				7C915DBF1C61CF7E003AD756 /* drumroll.mp3 in Resources */,
+				7C915DC01C61CF7E003AD756 /* elevator-badspeakers.mp3 in Resources */,
+				7C915DBC1C61CF7E003AD756 /* click0.mp3 in Resources */,
 				7C915D6F1C61CE75003AD756 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -270,7 +416,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7C915D6C1C61CE75003AD756 /* ViewController.m in Sources */,
+				7C915DD71C61CF94003AD756 /* EVLMusicManager.m in Sources */,
+				7C915DD11C61CF87003AD756 /* EVLNowPlayingViewController.m in Sources */,
+				7C915DD41C61CF8E003AD756 /* EVLMusic.m in Sources */,
 				7C915D691C61CE75003AD756 /* AppDelegate.m in Sources */,
 				7C915D661C61CE75003AD756 /* main.m in Sources */,
 			);
@@ -417,6 +565,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.joseph.EvilMusicPlayer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -428,6 +577,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.joseph.EvilMusicPlayer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -498,6 +648,7 @@
 				7C915D901C61CE75003AD756 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7C915D911C61CE75003AD756 /* Build configuration list for PBXNativeTarget "EvilMusicPlayerTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +657,7 @@
 				7C915D931C61CE75003AD756 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7C915D941C61CE75003AD756 /* Build configuration list for PBXNativeTarget "EvilMusicPlayerUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +666,7 @@
 				7C915D961C61CE75003AD756 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
